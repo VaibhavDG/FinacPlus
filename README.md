@@ -1,4 +1,4 @@
-Note: Screenshot of the test report of this assignment is attached as Screenshot 2026-05-04 004044.png
+Note: Screenshots of the test report of this assignment is attached as ScreenshotUIresult.png and ScreenshotAPIresult.png
       Book data is extracted to book.json file
 
 
